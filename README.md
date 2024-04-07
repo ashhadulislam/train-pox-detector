@@ -3,7 +3,7 @@
 ### code.ipynb
 File contains the code to train different pre-trained models on the dataset obtained from https://github.com/mahsan2/Monkeypox-dataset-2022.
 
-Please find the detailed instructions [here](https://pub.towardsai.net/detecting-road-damages-from-image-and-video-6e6d56241e7d)
+Please find the detailed instructions [here](https://medium.com/towards-artificial-intelligence/monkey-pox-detection-from-images-33d6fc39dbff?sk=620514a85afaa49ff3e516a66d0e28eb)
 
 ### test.ipynb
 File contains two functions to load and test the model trained.
